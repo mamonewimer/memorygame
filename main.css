@@ -1,6 +1,21 @@
 
+
+
+
+
+CSS:
+
+/********** Desktop - 920px breakpoint ***************************/
+@media screen and (max-width: 60em) {}
+
+/*iPAD SUPPORT=====================================--*/
+@media (max-width: 56.250em) {}
+
+/*NEXUS SUPPORT=====================================--*/
+@media (max-width: 44.063em) {}
+
+/*iPhone SUPPORT=====================================--*/
 @media screen and (max-width: 22.500em) {}
-*{
     box-sizing: border-box;
 
 }
